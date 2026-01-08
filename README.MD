@@ -36,7 +36,7 @@ agilstore/
 │   └── database.json     # Persistência de dados (gerado automaticamente)
 ├── README.md
 └── package.json
-
+```
 ## Como Rodar Localmente
 
 ### Pré-requisitos
