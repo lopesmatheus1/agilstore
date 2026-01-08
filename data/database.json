@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone Galaxy S23",
+    "category": "Smartphones",
+    "quantity": 50,
+    "price": 2999.99
+  },
+  {
+    "id": 2,
+    "name": "Laptop Dell XPS 13",
+    "category": "Laptops",
+    "quantity": 20,
+    "price": 7999.5
+  },
+  {
+    "id": 4,
+    "name": "Celular",
+    "category": "Smartphones",
+    "quantity": "200",
+    "price": "2000.99"
+  },
+  {
+    "id": 5,
+    "name": "Tablet iPad Air",
+    "category": "Tablets",
+    "quantity": 30,
+    "price": 3499
+  },
+  {
+    "id": 6,
+    "name": "Mouse Logitech MX Master",
+    "category": "Acessórios",
+    "quantity": 80,
+    "price": 299
+  },
+  {
+    "id": 7,
+    "name": "Monitor LG 27\" 4K",
+    "category": "Monitores",
+    "quantity": 15,
+    "price": 1999.99
+  }
+]
