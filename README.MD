@@ -49,8 +49,8 @@ agilstore/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/lopesmatheus1/
-cd 
+git clone https://github.com/lopesmatheus1/agilstore.git
+cd agilstore
 ```
 2. Instale as dependências:
 
@@ -71,7 +71,6 @@ yarn dev
 # ou
 pnpm dev
 ```
-
 
 ## Desenvolvimento
 Desenvolvido como desafio de programação utilizando Nodejs e Javascript
